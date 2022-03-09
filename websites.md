@@ -3,7 +3,8 @@
 - <https://www.shapedivider.app/> svg
 - <https://undraw.co/search> svg
 - <https://neumorphism.io/#e0e0e0> neumorphism effects
-- https://cssbuttons.io/ button designs
+- <https://cssbuttons.io/> button designs
+- <https://coolors.co/palettes/trending> colors
 
 ---
 
