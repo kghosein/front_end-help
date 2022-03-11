@@ -5,6 +5,7 @@
 - <https://neumorphism.io/#e0e0e0> neumorphism effects
 - <https://cssbuttons.io/> button designs
 - <https://coolors.co/palettes/trending> colors
+- <https://www.cssportal.com/> css tools and more
 
 ---
 
