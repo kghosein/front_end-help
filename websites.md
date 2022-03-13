@@ -6,6 +6,7 @@
 - <https://cssbuttons.io/> button designs
 - <https://coolors.co/palettes/trending> colors
 - <https://www.cssportal.com/> css tools and more
+- <https://css-generators.com/> section dividers and more
 
 ---
 
