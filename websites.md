@@ -7,6 +7,7 @@
 - <https://coolors.co/palettes/trending> colors
 - <https://www.cssportal.com/> css tools and more
 - <https://css-generators.com/> section dividers and more
+- <https://www.eggradients.com/category/black-gradient> gradient colors
 
 ---
 
