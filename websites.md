@@ -4,11 +4,10 @@
 - <https://undraw.co/search> svg
 - <https://neumorphism.io/#e0e0e0> neumorphism effects
 - <https://cssbuttons.io/> button designs
-- <https://coolors.co/palettes/trending> colors
+- <https://coolors.co/palettes/trending> a whole bunch of color to choose from
 - <https://www.cssportal.com/> css tools and more
 - <https://css-generators.com/> section dividers and more
 - <https://www.eggradients.com/category/black-gradient> gradient colors
-- <https://coolors.co/palettes/trending> a whole bunch of color to choose from
 - <https://getcssscan.com/css-box-shadow-examples> box shadows
 
 ---
