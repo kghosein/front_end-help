@@ -17,6 +17,7 @@
 - <https://alvarotrigo.com/> html, css, js (and more) snippets
 - <https://madmurphy.github.io/takefive.css/index.html> amazing repo to be looked at
 - <https://cssauthor.com/> html, css, jquery, php etc
+- <https://www.sliderrevolution.com/blog/> menus, animations etc
 
 ---
 
