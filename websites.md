@@ -12,6 +12,7 @@
 - <https://www.softr.io/tools> svgs and more
 - <https://svgwave.in/> svgs
 - <https://loading.io/>
+- <https://getwaves.io/> svgs
 
 ---
 
