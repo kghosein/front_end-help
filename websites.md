@@ -13,6 +13,7 @@
 - <https://svgwave.in/> svgs
 - <https://loading.io/>
 - <https://getwaves.io/> svgs
+- <https://www.favicon-generator.org/> generate favicons from images
 
 ---
 
