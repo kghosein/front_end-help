@@ -10,6 +10,8 @@
 - <https://www.eggradients.com/category/black-gradient> gradient colors
 - <https://getcssscan.com/css-box-shadow-examples> box shadows
 - <https://www.softr.io/tools> svgs and more
+- <https://svgwave.in/> svgs
+- <https://loading.io/>
 
 ---
 
