@@ -14,7 +14,7 @@
 - <https://loading.io/>
 - <https://getwaves.io/> svgs
 - <https://www.favicon-generator.org/> generate favicons from images
-- <https://tobiasahlin.com/> animations and more
+- <https://tobiasahlin.com/> text animations and more
 - <https://passionhacks.com/> blobs, animations
 
 ---
