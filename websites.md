@@ -38,4 +38,9 @@
 - <https://cssauthor.com/>
 - <https://blazrobar.com/> free psds'
 - <https://bootstrapthemes.co/>
-- 
+
+---
+
+## Other Tools
+- <https://pixlr.com/> online image editor and more
+- <https://image.online-convert.com/> online image format converter (good thing it do not change or add something to the image name, keep as it was)
