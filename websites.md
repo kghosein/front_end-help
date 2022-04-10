@@ -16,6 +16,7 @@
 - <https://www.favicon-generator.org/> generate favicons from images
 - <https://tobiasahlin.com/> text animations and more
 - <https://passionhacks.com/> blobs, animations
+- <https://codepen.io/jipdev/full/ZEJOWjP> masonry layout generator
 
 ---
 
