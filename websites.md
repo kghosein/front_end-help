@@ -1,7 +1,7 @@
 ## UI/UX
-- <https://app.haikei.app/> svg 
-- <https://www.shapedivider.app/> svg
-- <https://undraw.co/search> svg
+- <https://app.haikei.app/> svgs
+- <https://www.shapedivider.app/> svgs
+- <https://undraw.co/search> svgs
 - <https://neumorphism.io/#e0e0e0> neumorphism effects
 - <https://cssbuttons.io/> button designs
 - <https://coolors.co/palettes/trending> a whole bunch of color to choose from
@@ -23,21 +23,22 @@
 ## Code Snippets
 - <https://www.30secondsofcode.org/> html, css, js (and more) snippets
 - <https://alvarotrigo.com/> html, css, js (and more) snippets
-- <https://madmurphy.github.io/takefive.css/index.html> amazing repo to be looked at
+- <https://madmurphy.github.io/takefive.css/index.html> css slide renderer, amazing repo to check out
 - <https://cssauthor.com/> html, css, jquery, php etc
 - <https://www.sliderrevolution.com/blog/> menus, animations etc
+- <https://www.cssscript.com/> js libraries, css effects and much more
 
 ---
 
-## HTML Templates and Front-end UI kits
+## HTML Templates (and psds)
 - <https://www.graphberry.com/>
 - <https://uicookies.com/>
 - <https://untree.co/>
 - <https://freebiesbug.com/>
 - <https://speckyboy.com/>
-- <https://www.hongkiat.com/blog/psd-website-templates-for-free/> free psds'
+- <https://www.hongkiat.com/blog/psd-website-templates-for-free/> free psds
 - <https://cssauthor.com/>
-- <https://blazrobar.com/> free psds'
+- <https://blazrobar.com/> free psds
 - <https://bootstrapthemes.co/>
 
 ---
