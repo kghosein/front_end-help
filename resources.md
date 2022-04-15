@@ -13,7 +13,6 @@
 - <https://svgwave.in/> svgs
 - <https://loading.io/>
 - <https://getwaves.io/> svgs
-- <https://www.favicon-generator.org/> generate favicons from images
 - <https://tobiasahlin.com/> text animations and more
 - <https://passionhacks.com/> blobs, animations
 - <https://codepen.io/jipdev/full/ZEJOWjP> masonry layout generator
@@ -46,3 +45,4 @@
 ## Other Tools
 - <https://pixlr.com/> online image editor and more
 - <https://image.online-convert.com/> online image format converter (good thing is that it do not change or add something to the image name)
+- <https://www.favicon-generator.org/> generate favicons from images
