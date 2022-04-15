@@ -26,6 +26,7 @@
 - <https://cssauthor.com/> html, css, jquery, php etc
 - <https://www.sliderrevolution.com/blog/> menus, animations etc
 - <https://www.cssscript.com/> js libraries, css effects and much more
+- <https://freefrontend.com/> html, css, js (and more) code snippets, ui/ux designs and more
 
 ---
 
