@@ -27,6 +27,7 @@
 - <https://www.sliderrevolution.com/blog/> menus, animations etc
 - <https://www.cssscript.com/> js libraries, css effects and much more
 - <https://freefrontend.com/> html, css, js (and more) code snippets, ui/ux designs and more
+- <https://gomakethings.com/> mostly javascript
 
 ---
 
@@ -47,3 +48,9 @@
 - <https://pixlr.com/> online image editor and more
 - <https://image.online-convert.com/> online image format converter (good thing is that it do not change or add something to the image name)
 - <https://www.favicon-generator.org/> generate favicons from images
+
+---
+
+## Performance/Page Speed
+- <https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/> everything you need to know about image optimization
+- <https://addyosmani.com/blog/> improve your page speed and performance 
