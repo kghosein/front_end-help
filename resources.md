@@ -31,6 +31,19 @@
 
 ---
 
+## Other Tools
+- <https://pixlr.com/> online image editor and more
+- <https://image.online-convert.com/> online image format converter (good thing is that it do not change or add something to the image name)
+- <https://www.favicon-generator.org/> generate favicons from images
+
+---
+
+## Performance/Page Speed
+- <https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/> everything you need to know about image optimization
+- <https://addyosmani.com/blog/> improve your page speed and performance (mostly covered)
+
+---
+
 ## HTML Templates (and psds)
 - <https://www.graphberry.com/>
 - <https://uicookies.com/>
@@ -41,16 +54,3 @@
 - <https://cssauthor.com/>
 - <https://blazrobar.com/> free psds
 - <https://bootstrapthemes.co/>
-
----
-
-## Other Tools
-- <https://pixlr.com/> online image editor and more
-- <https://image.online-convert.com/> online image format converter (good thing is that it do not change or add something to the image name)
-- <https://www.favicon-generator.org/> generate favicons from images
-
----
-
-## Performance/Page Speed
-- <https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/> everything you need to know about image optimization
-- <https://addyosmani.com/blog/> improve your page speed and performance 
