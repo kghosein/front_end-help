@@ -16,6 +16,7 @@
 - <https://tobiasahlin.com/> text animations and more
 - <https://passionhacks.com/> blobs, animations
 - <https://codepen.io/jipdev/full/ZEJOWjP> masonry layout generator
+- <https://animate.style/> css animation library
 
 ---
 
@@ -33,7 +34,7 @@
 
 ## Other Tools
 - <https://pixlr.com/> online image editor and more
-- <https://image.online-convert.com/> online image format converter (good thing is that it do not change or add something to the image name)
+- <https://image.online-convert.com/> online image format converter (good thing is that it does not change or add something to the image name)
 - <https://www.favicon-generator.org/> generate favicons from images
 
 ---
