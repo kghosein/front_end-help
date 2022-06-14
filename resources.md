@@ -1,4 +1,4 @@
-## UI/UX
+## UI/UX (tools and code snippets)
 - <https://app.haikei.app/> svgs
 - <https://www.shapedivider.app/> svgs
 - <https://undraw.co/search> svgs
@@ -17,6 +17,7 @@
 - <https://passionhacks.com/> blobs, animations
 - <https://codepen.io/jipdev/full/ZEJOWjP> masonry layout generator
 - <https://animate.style/> css animation library
+- <https://akashraj9828.github.io/svg-text-animation-generator/> svg text draw animation
 
 ---
 
