@@ -6,7 +6,7 @@
 - <https://cssbuttons.io/> button designs
 - <https://coolors.co/palettes/trending> a whole bunch of color to choose from
 - <https://www.cssportal.com/> css tools and more
-- <https://css-generators.com/> section dividers and more
+- <https://css-generators.com/> section dividers, custom corners and more
 - <https://www.eggradients.com/category/black-gradient> gradient colors
 - <https://getcssscan.com/css-box-shadow-examples> box shadows
 - <https://www.softr.io/tools> svgs and more
@@ -30,6 +30,7 @@
 - <https://www.cssscript.com/> js libraries, css effects and much more
 - <https://freefrontend.com/> html, css, js (and more) code snippets, ui/ux designs and more
 - <https://gomakethings.com/> mostly javascript
+- <https://css-articles.com/> css effects and animations
 
 ---
 
