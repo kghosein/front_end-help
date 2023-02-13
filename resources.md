@@ -18,6 +18,7 @@
 - <https://codepen.io/jipdev/full/ZEJOWjP> masonry layout generator
 - <https://animate.style/> css animation library
 - <https://akashraj9828.github.io/svg-text-animation-generator/> svg text draw animation
+- <https://www.svgrepo.com/> generate svgs and edit
 
 ---
 
