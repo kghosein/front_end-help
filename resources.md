@@ -19,12 +19,13 @@
 - <https://animate.style/> css animation library
 - <https://akashraj9828.github.io/svg-text-animation-generator/> svg text draw animation
 - <https://www.svgrepo.com/> generate svgs and edit
-- <https://codepen.io/ainalem/pen/LJYRxz> animated svg hamburger icons
-- <https://codepen.io/ainalem/pen/GeMqdP> animated svg hamburger icons
-- <https://codepen.io/ainalem/pen/PoYvggj> animated svg hamburger icons
-- <https://codepen.io/kevinpowell/pen/gOKpOyy> animated svg hamburger icons
 
 ---
+
+## React
+- <https://negomi.github.io/react-burger-menu/> sidebar effects
+- <https://tympanus.net/Development/SidebarTransitions/> sidebar effects
+- <https://tympanus.net/codrops/category/tutorials/> advanced animations 
 
 ## Code Snippets
 - <https://www.30secondsofcode.org/> html, css, js (and more) snippets
