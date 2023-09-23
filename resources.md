@@ -19,6 +19,8 @@
 - <https://animate.style/> css animation library
 - <https://akashraj9828.github.io/svg-text-animation-generator/> svg text draw animation
 - <https://www.svgrepo.com/> generate svgs and edit
+- <https://elrumordelaluz.github.io/csshake/> css shake animations
+- <https://www.svgrepo.com/> svg icons
 
 ---
 
